@@ -1,0 +1,38 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// overrides after import
+// general text size
+.page__content p,
+.archive__item p,
+.archive p {
+
+  font-size: 0.75em;
+
+}
+
+// page title
+.page__title {
+
+  font-size: 0.95em;
+
+}
+
+// sidebar size
+.sidebar p {
+
+  font-size: 0.8em;
+
+}
+
+// navigation links
+.sidebar .label {
+  font-size: 0.85em;
+}

@@ -1,0 +1,10 @@
+# main links
+main:
+   - title: "About"
+     url: /about/
+   - title: "Research"
+     url: /research/
+   - title: "Publications"
+     url: /publications/
+   - title: "CV"
+     url: https://drive.google.com/file/d/1xnwhvTSdN7gouRN3DwGubLRWc4GTc_kX/view?usp=sharing
