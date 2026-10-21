@@ -1,0 +1,9 @@
+---
+layout: posts
+title:  "test post"
+excerpt_separator: <!--more-->
+---
+
+Test post excerpt
+<!--more-->
+Other text

@@ -16,13 +16,19 @@ permalink: /publications/
 <p style = "font-size:16px;"> <b>In review</b> </p>
 ---
 
+<p class="hangingindent" style = "font-size:14px;"> 
+
+1. <b>Hooven, N.D.</b>, E.C. Breitenbach, P.O. Jensen, E.P. Krausz, and D.H. Thornton. Can within-stand refugia prevent short-term thinning impacts on snowshoe hare populations? <i>Journal of Wildlife Management.</i> 
+
+</p>
+
 ---
 <p style = "font-size:16px;"> <b>Peer-reviewed publications</b> </p>
 ---
 
 <p class="hangingindent" style = "font-size:14px;"> 
 
-8. <b>Hooven, N.D.</b>, E.C. Breitenbach, P.O. Jensen, E.P. Krausz, and D.H. Thornton. 2026. Speeding by: Modeling animal movement speed does not overcome limitations of a popular camera trap density estimator. <i>Ecological Modelling.</i> Accepted.
+8. <b>Hooven, N.D.</b>, E.C. Breitenbach, P.O. Jensen, E.P. Krausz, and D.H. Thornton. 2026. Speeding by: Modeling animal movement speed does not overcome limitations of a popular camera trap density estimator. <i>Ecological Modelling.</i> 521: 111772. <a href="https://doi.org/10.1016/j.ecolmodel.2026.111772">https://doi.org/10.1016/j.ecolmodel.2026.111772</a>
 
 </p>
 
